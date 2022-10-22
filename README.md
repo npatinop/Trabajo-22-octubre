@@ -11,3 +11,6 @@ Walter Hugo Arboleda Mazo
 
 ### Grupo:
 3 (remota)
+
+## Google Drive del equipo:
+[Diagramas de clase](https://drive.google.com/drive/folders/1ICxHx5j4y9C8FN1xwWk6NMvMNv1FWO1W?usp=sharing)
